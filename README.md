@@ -1,5 +1,5 @@
 ## stockmarket-filter:- 
-  Filter stock from Screener
+    Filter stock from Screener
 
 ## Development
 
