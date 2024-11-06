@@ -3,7 +3,7 @@ Filter stock from Screener
 
 ``` sudo apt-get install -y nodejs ```
 
-node --version
+``` node --version ```
 
-npm install puppeteer exceljs html-pdf
+``` npm install puppeteer exceljs html-pdf ```
 
