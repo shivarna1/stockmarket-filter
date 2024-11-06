@@ -9,10 +9,12 @@ Clone the repository into your projects directory:
 ```
 git clone https://github.com/shivarna1/stockmarket-filter.git
 ```
+Install the nodejs:
 
 ``` 
 sudo apt-get install -y nodejs
 ```
+Check version of nodejs: (18)
 
 ``` 
 node --version
@@ -25,6 +27,6 @@ npm install puppeteer exceljs html-pdf
 
 Run the builder and watcher:
 ```
-node
+node filename.js
 ```
 
